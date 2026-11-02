@@ -2,6 +2,13 @@
 
 The CLAM project is a collaboration between the University of Rochester (UR) and Rochester Institute of Technology (RIT). This project was supported by NSF between 2021-2025 (UR) and 2021-2026 (RIT). The RIT team has been supported by NSF Award ID 2114285. This is the public repository of the hardware developed by the RIT team.
 
+The UR PI is Dr. Chen Ding, Professor and Department Chair: https://www.cs.rochester.edu/u/cding/
+
+The RIT PI is Dr. Dorin Patru, Professor: https://people.rit.edu/~dxpeee/
+The RIT CoPI was  Dr. Linlin Chen, Associate Professor, https://www.rit.edu/directory/lxcsma-linlin-chen
+
+The RIT team comprised the following student members: Ian Prechtl, Matthew Gould, Marcus Figorito, Vincent Michelini, Andrew Wolters, Mandar Kulkarni, Alex Kneipp, Allison Morgan, and Shreya Patel.
+
 A summary description of the project is provided below. We will add soon more details about the code and the content of the repository. This is shared with the community in the hope that the programmable and reconfigurable cache architecture can be used by others for cache architecture research.
 
 The CLAM project has developed the Lease Cache — a new programmable hardware cache. The joint research has produced a hardware prototype and demonstrated that lease-based policies can match or exceed traditional replacement policies (like LRU/PLRU) and often approach the performance of an optimal (OPT) cache.
